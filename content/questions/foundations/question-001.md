@@ -7,6 +7,7 @@ draft: false
 
 
 > https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts
+> - [x] Personal accounts [x] Organization accounts
 - [x] Personal accounts
 - [x] Organization accounts
 - [x] Enterprise accounts
